@@ -22,7 +22,7 @@ class Footer extends Component {
         </Link>
         <div className="box box3 box4">
           <a
-            href="https://github.com/singhshivanshu/Blog"
+            href="https://github.com/navneet57"
             className="link-foot"
             target="_blank"
             rel="noopener noreferrer"
