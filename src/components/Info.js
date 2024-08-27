@@ -40,7 +40,7 @@ class Info extends Component {
               style={{ textAlign: "center", padding: "20px" }}
             >
               <a
-                href="https://www.facebook.com/"
+                href="https://leetcode.com/u/navneetkumarjyoti30/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -48,7 +48,7 @@ class Info extends Component {
               </a>
               &emsp;
               <a
-                href="https://www.github.com/"
+                href="https:https://github.com/navneet57"
                 target="_blank"
                 rel="noopener noreferrer"
               >
